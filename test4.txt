@@ -1,0 +1,8 @@
+ int
+float
+0.123
+goto
+Rahim
+1456
+double
+s+pace( )
